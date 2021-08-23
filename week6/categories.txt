@@ -1,0 +1,16 @@
+/category/information-technology-security-anti-hacking/784/+Anti-Hacking
+/category/information-technology-security-anti-virus/785/+Anti-Virus
+/category/information-technology-security-authentication-encryption/786/+Authentication - Encryption
+/category/information-technology-security-digital-signatures/787/+Digital Signatures
+/category/information-technology-e-commerce-security/788/+E-Commerce Security
+/category/information-technology-security-firewalls/789/+Firewalls
+/category/information-technology-security-intrusion-detection-systems/790/+Intrusion Detection Systems
+/category/information-technology-network-security/791/+Network Security
+/category/information-technology-security-pki/792/+PKI
+/category/information-technology-security-administration/793/+Security Administration
+/category/information-technology-security-applications/794/+Security Applications
+/category/information-technology-security-management/795/+Security Management
+/category/information-technology-security-spam-e-mail-fraud-phishing/796/+Spam - E-mail Fraud - Phishing
+/category/information-technology-security-spyware/797/+Spyware
+/category/information-technology-web-security/798/+Web Security
+/category/information-technology-wireless-security/799/+Wireless Security
